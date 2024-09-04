@@ -1,6 +1,6 @@
-#EXTM3U url-tvg="http://hqth.me/epg" tvg-shift=0 m3uautoload=1"
-#EXTM3U url-tvg="https://khanggtivi.xyz/schedule/khanggtivi_epg.xml"
+#EXTM3U url-tvg="http://lichphatsong.xyz/schedule/vthanhtivi_epg.xml" tvg-shift=0 m3uautoload=1
+#EXTM3U url-tvg="http://gg.gg/epgvn03" tvg-shift=0 m3uautoload=2
+#EXTM3U url-tvg="http://gg.gg/epgmytv" tvg-shift=0 m3uautoload=3
 
-#EXTINF:-1 group-title="VTV" tvg-id="vtv1hd" tvg-logo="https://raw.githubusercontent.com/chivy141206/cvmedia/main/img/vtv1.png",VTV1 HD 50fps
-#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-http://p1.cvtv.xyz/vtv1?token=live
+#EXTINF:-1  tvg-id="http://str1.cvtv.xyz/VTV1HD?token=live và https://tthd.site/360/2/index.m3u8 và http://iptvzin.asuscomm.com:9876/rtp/232.84.1.117:10254 và http://iptvquan.duckdns.org:9876/udp/225.1.2.249:30120 và https://cdnw-liv02.todayplus.com.vn/hdb/smil:vtv1-sub.smil/chunklist_w2127434941_b2289152.m3u8 và https://vuathongtin.com/tivi/vtv1.m3u8" group-title="KÊNH ĐẶC SẮC" group-title="KÊNH DÀNH CHO GIA ĐÌNH" group-title="KÊNH VTV" group-title="KÊNH THIẾT YẾU" group-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/Danh%20s%C3%A1ch%20k%C3%AAnh/Nh%C3%B3m%20k%C3%AAnh%20t%E1%BB%95ng%20h%E1%BB%A3p.png" tvg-logo="https://raw.githubusercontent.com/HaNoiIPTV/HaNoiIPTV.m3u/master/VTV1%20HD%20%E2%80%A2%20B%E1%BA%A3n%20tinh%20ch%E1%BB%89nh.png",VTV1 HD
+http://gg.gg/HaNoiIPTV-VTV1_HD
