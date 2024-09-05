@@ -1,4 +1,4 @@
-#EXTM3U
-#EXTINF:-1 group-title="TRONG NƯỚC" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/VTV1_logo_2013_final.svg/1200px-VTV1_logo_2013_final.svg.png",VTV1
-#EXTVLCOPT:http-user-agent=cvmedia/1.0.0
-http://p1.cvtv.xyz/vtv1?token=live
+#EXTINF:0 tvg-id="vtv1hd" group-title="🇻🇳| VTV" tvg-logo="https://i.imgur.com/nfkmvAY.png",VTV1
+#EXTVLCOPT:http-user-agent=ReactNativeVideo/3.4.4 (Linux;Android 9) ExoPlayerLib/2.13.3
+#EXTVLCOPT:http-referrer=http://sctvonline.vn
+https://e2.endpoint.cdn.sctvonline.vn/hls/vtv1/index.m3u8?
